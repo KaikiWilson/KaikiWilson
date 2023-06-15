@@ -4,7 +4,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikiwilson/)
 
-![Kaiki GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikiWilson&show_icons=true&theme=tokyonight)
+![Kaiki GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikiwilson&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikiWilson)]
 
 ## << Tecnologias que tenho conhecimento >>
 
