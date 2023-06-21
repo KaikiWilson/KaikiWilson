@@ -15,4 +15,4 @@
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactJS](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-Me tornei um amante de tecnologia, especialmente em desenvolver websites, aplicações e soluções com linguagens de programação. Busco o aprendizado diário para sempre evoluir e ter um futuro promissor como DEV 💙🚀
+#### Me tornei um amante de tecnologia, especialmente em desenvolver websites, aplicações e soluções com linguagens de programação. Busco o aprendizado diário para sempre evoluir e ter um futuro promissor como DEV 💙🚀
