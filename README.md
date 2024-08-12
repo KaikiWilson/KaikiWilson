@@ -15,5 +15,6 @@
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### Comecei a estudar programação no final de 2022 (Final de Outubro / Inicio de Novembro) e me tornei um amante de tecnologia, especialmente em desenvolver websites, aplicações e soluções com linguagens de programação. Meu objetivo é alcançar meu primeiro cargo como Desenvolvedor Junior e evoluir constantemente como profissional, levando comigo todos os ensinamentos, boas práticas, desenvolvimentos Ágeis e boa relação com o time. Até então venho me aprofundando em React, Javascript, Typescript e buscando conhecimento em livros como "Código limpo", "Arquitetura limpa", "Scrum: A arte de fazer o dobro do trabalho na metade do tempo", "Learning React" e "Javascript: O guia definitivo". Me considero um eterno estudante, sempre evoluindo para ter um futuro promissor como DEV 💙🚀
